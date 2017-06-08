@@ -42,7 +42,7 @@
 <body class="nav-md" id="funding-dahsboard">
 	<div class="container body">
 		<div class="main_container">
-			<%@ include file="src/main/webapp/views/generic.jsp"%>
+			<%@ include file="/WEB-INF/pages/generic.jsp"%>
 			<!-- page content -->
 			
 		</div>
