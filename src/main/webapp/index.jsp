@@ -106,6 +106,7 @@ $( document ).ready(function() {
 <button class=btn-primary>Muzam's All-time Favourites</button>
 <br/>
 </div>
+
 <div class="row ">
     <div class="col-sm-2 col-xs-4">
     	<div id="tile1" class="tile">
@@ -405,6 +406,7 @@ $( document ).ready(function() {
 	
 
 	
+</div>
 </div>
 </body>
 </html>
