@@ -170,7 +170,7 @@ $( document ).ready(function() {
               <img src="http://is3.mzstatic.com/image/thumb/Music/00/0a/0d/mzi.grbbjgnr.jpg/300x300bb-55.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-              <img src="http://www.cinecoffee.com/wp-content/uploads/2015/11/Maniratnam-300x300.jpg" class="img-responsive"/>
+              <img src="http://www.filmapia.com/sites/default/files/filmapia/pub/movie/posters/732_wallpaper.jpg" class="img-responsive"/>
             </div>
           </div>
         </div>
@@ -204,7 +204,7 @@ $( document ).ready(function() {
               <img src="http://4.bp.blogspot.com/_Uno_emuDLJc/S9L2AGt3nYI/AAAAAAAAEug/Umbl_EWWcsc/s1600/Ravanan-Aishwarya-Vikram.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-              <img src="http://www.cinecoffee.com/wp-content/uploads/2016/02/vettaiyadu-vilaiyadu-movie-stills-300x300.jpg" class="img-responsive"/>
+              <img src="http://is3.mzstatic.com/image/thumb/Music/00/0a/0d/mzi.grbbjgnr.jpg/300x300bb-55.jpg" class="img-responsive"/>
             </div>
           </div>
         </div>
@@ -258,7 +258,7 @@ $( document ).ready(function() {
               <img src="http://is3.mzstatic.com/image/thumb/Music/57/8e/27/mzi.hnquytpz.jpg/300x300bb-55.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-              <img src="http://www.cinecoffee.com/wp-content/uploads/2015/11/Gautham-Menon-Simbu-300x300.jpg" class="img-responsive"/>
+              <img src="http://www.filmapia.com/sites/default/files/filmapia/pub/movie/posters/732_wallpaper.jpg" class="img-responsive"/>
             </div>
           </div>
         </div>
