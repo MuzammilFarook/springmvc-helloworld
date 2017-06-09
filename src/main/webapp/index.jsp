@@ -8,16 +8,11 @@
 </style>
 
 <body>
-<h2>Spring-MVC Hello World Examples!</h2>
-
-<p>
-    This is a Example of Spring MVC using JavaConfig and Not XML Files in and Web App.
-
-<p>
-    If you want to see if the controller really works just click <a href="./ask">here</a>.
-</p>
+<h2>Hi Friends!</h2>
 
 
-<b><i><a href="http://www.JohnathanMarkSmith.com">http://www.JohnathanMarkSmith.com</a></i></b>
+    I am Muzammil.
+
+
 </body>
 </html>
