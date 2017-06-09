@@ -1,6 +1,5 @@
  <html>
  <head>
-     <title>Muzam</title>
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
  <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -104,7 +103,8 @@ $( document ).ready(function() {
 <div class="container dynamicTile">
 <div class="row ">
 <br/>
-<button class=btn-primary>Muzam's Gallary</button>
+<button class=btn-primary>Muzam's All-time Favourites</button>
+<br/>
 </div>
 <div class="row ">
     <div class="col-sm-2 col-xs-4">
@@ -114,10 +114,10 @@ $( document ).ready(function() {
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-               <img src="http://handsontek.net/demoimages/tiles/twitter1.png" class="img-responsive"/>
+               <img src="http://tamil.way2movies.com/wp-content/uploads/2013/01/Mani-Ratnam.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-               <img src="http://handsontek.net/demoimages/tiles/twitter2.png" class="img-responsive"/>
+               <img src="https://images-na.ssl-images-amazon.com/images/I/51B3cjvY3uL._SY300_.jpg" class="img-responsive"/>
             </div>
           </div>
         </div>
@@ -131,13 +131,13 @@ $( document ).ready(function() {
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-              <img src="http://handsontek.net/demoimages/tiles/hot.png" class="img-responsive"/>
+              <img src="http://m.behindwoods.com/tamil-movies-cinema-news-17/images/yami-gautam-keen-to-work-under-gautham-vasudev-menon-photos-pictures-stills-2.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-              <img src="http://handsontek.net/demoimages/tiles/hot2.png" class="img-responsive"/>
+              <img src="http://lqp-imgs.s3-ap-south-1.amazonaws.com/faceview/g7f/j7c/imgs/ct/1479956921243_1479956918608-lg300x300.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-              <img src="http://handsontek.net/demoimages/tiles/hot3.png" class="img-responsive"/>
+              <img src="http://3.bp.blogspot.com/_FylGS8_9K7U/SSWFyPC_8aI/AAAAAAAAKXg/Ni09_35W-vc/s400/vaaranam-aayiram-20-11-08.jpg" class="img-responsive"/>
             </div>
           </div>
         </div>
@@ -151,10 +151,10 @@ $( document ).ready(function() {
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-               <img src="http://handsontek.net/demoimages/tiles/weather2.png" class="img-responsive"/>
+               <img src="http://m.behindwoods.com/tamil-movies-cinema-news-17/images/nivin-pauly-talks-about-the-jallikattu-protests-in-marina-photos-pictures-stills-2.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-               <img src="http://handsontek.net/demoimages/tiles/weather.png" class="img-responsive"/>
+               <img src="http://www.filmapia.com/sites/default/files/filmapia/pub/movie/posters/732_wallpaper.jpg" class="img-responsive"/>
             </div>
             </div>
          </div>
@@ -167,10 +167,10 @@ $( document ).ready(function() {
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-              <img src="http://handsontek.net/demoimages/tiles/facebook3.png" class="img-responsive"/>
+              <img src="http://is3.mzstatic.com/image/thumb/Music/00/0a/0d/mzi.grbbjgnr.jpg/300x300bb-55.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-              <img src="http://handsontek.net/demoimages/tiles/facebook2.png" class="img-responsive"/>
+              <img src="http://www.cinecoffee.com/wp-content/uploads/2015/11/Maniratnam-300x300.jpg" class="img-responsive"/>
             </div>
           </div>
         </div>
@@ -184,10 +184,10 @@ $( document ).ready(function() {
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-              <img src="http://handsontek.net/demoimages/tiles/neews.png" class="img-responsive"/>
+              <img src="https://s.yimg.com/ny/api/res/1.2/.ymMw8tWUXpgJxVDasZoJw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9MzAwO2g9MzAwO2lsPXBsYW5l/http://media.zenfs.com/en_IN/News/Galatta/Neethane_E20110913.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-              <img src="http://handsontek.net/demoimages/tiles/neews2.png" class="img-responsive"/>
+              <img src="http://static.wixstatic.com/media/2134a1_f7936f7899e64e68965a757484cc8256.jpg/v1/fill/w_300,h_300/2134a1_f7936f7899e64e68965a757484cc8256.jpg" class="img-responsive"/>
             </div>
           </div>
         </div>
