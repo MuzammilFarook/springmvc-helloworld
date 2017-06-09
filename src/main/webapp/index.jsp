@@ -279,7 +279,10 @@ $( document ).ready(function() {
             </div>
             <div class="item">
               <h3 class="tilecaption">I am what I am</h3>
-            </div>         
+            </div> 
+			<div class="item">
+              <h3 class="tilecaption">Muzam's all time favs</h3>
+            </div>  			
           </div>
         </div>
          
