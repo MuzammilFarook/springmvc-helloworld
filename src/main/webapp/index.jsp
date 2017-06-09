@@ -201,10 +201,10 @@ $( document ).ready(function() {
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-              <img src="http://handsontek.net/demoimages/tiles/skype.png" class="img-responsive"/>
+              <img src="http://4.bp.blogspot.com/_Uno_emuDLJc/S9L2AGt3nYI/AAAAAAAAEug/Umbl_EWWcsc/s1600/Ravanan-Aishwarya-Vikram.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-              <img src="http://handsontek.net/demoimages/tiles/skype2.png" class="img-responsive"/>
+              <img src="http://www.cinecoffee.com/wp-content/uploads/2016/02/vettaiyadu-vilaiyadu-movie-stills-300x300.jpg" class="img-responsive"/>
             </div>
           </div>
         </div>
@@ -221,13 +221,10 @@ $( document ).ready(function() {
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-              <img src="http://handsontek.net/demoimages/tiles/gallery.png" class="img-responsive"/>
+              <img src="https://selvabalaji.files.wordpress.com/2010/03/vtv1.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-              <img src="http://handsontek.net/demoimages/tiles/gallery2.png" class="img-responsive"/>
-            </div>
-            <div class="item">
-              <img src="http://handsontek.net/demoimages/tiles/gallery3.png" class="img-responsive"/>
+              <img src="http://www.completecinemas.com/wp-content/uploads/2016/05/AYM-1.jpg" class="img-responsive"/>
             </div>
           </div>
         </div>
@@ -241,10 +238,10 @@ $( document ).ready(function() {
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-               <img src="http://handsontek.net/demoimages/tiles/music.png" class="img-responsive"/>
+               <img src="http://m.behindwoods.com/tamil-movies-cinema-news-17/images/yennai-arindhaal-2-will-happen-says-gautham-menon-photos-pictures-stills-1.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-               <img src="http://handsontek.net/demoimages/tiles/music2.png" class="img-responsive"/>
+               <img src="https://lh4.ggpht.com/5embbWhd7LNU5KR03PvKKOGDfXMApqinI3zq5sBNUDmFrZCWIHJcwB7XWvMgCQqOLkc=w300" class="img-responsive"/>
             </div>
             </div>
          </div>
@@ -258,10 +255,10 @@ $( document ).ready(function() {
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-              <img src="http://handsontek.net/demoimages/tiles/calendar.png" class="img-responsive"/>
+              <img src="http://is3.mzstatic.com/image/thumb/Music/57/8e/27/mzi.hnquytpz.jpg/300x300bb-55.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-              <img src="http://handsontek.net/demoimages/tiles/calendar2.png" class="img-responsive"/>
+              <img src="http://www.cinecoffee.com/wp-content/uploads/2015/11/Gautham-Menon-Simbu-300x300.jpg" class="img-responsive"/>
             </div>
           </div>
         </div>
@@ -278,15 +275,11 @@ $( document ).ready(function() {
               <h3 class="tilecaption"><i class="fa fa-child fa-4x"></i></h3>
             </div>
             <div class="item">
-              <h3 class="tilecaption">Customize your tiles</h3>
+              <h3 class="tilecaption">Muzam's all time favs</h3>
             </div>
             <div class="item">
-              <h3 class="tilecaption">Text, Icons, Images</h3>
-            </div>
-            <div class="item">
-              <h3 class="tilecaption">Combine them and create your metro style</h3>
-            </div>
-          
+              <h3 class="tilecaption">I am what I am</h3>
+            </div>         
           </div>
         </div>
          
@@ -295,6 +288,41 @@ $( document ).ready(function() {
   
 </div>
 <div class="row ">
+<div class="col-sm-2 col-xs-4">
+		<div id="tile6" class="tile">
+    	 
+         <div class="carousel slide" data-ride="carousel">
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner">
+            <div class="item active">
+              <img src="http://4.bp.blogspot.com/_Uno_emuDLJc/S9L2AGt3nYI/AAAAAAAAEug/Umbl_EWWcsc/s1600/Ravanan-Aishwarya-Vikram.jpg" class="img-responsive"/>
+            </div>
+            <div class="item">
+              <img src="http://www.cinecoffee.com/wp-content/uploads/2016/02/vettaiyadu-vilaiyadu-movie-stills-300x300.jpg" class="img-responsive"/>
+            </div>
+          </div>
+        </div>
+         
+		</div>
+	</div>
+	    <div class="col-sm-2 col-xs-4">
+		<div id="tile5" class="tile">
+    	 
+         <div class="carousel slide" data-ride="carousel">
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner">
+            <div class="item active">
+              <img src="https://s.yimg.com/ny/api/res/1.2/.ymMw8tWUXpgJxVDasZoJw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9MzAwO2g9MzAwO2lsPXBsYW5l/http://media.zenfs.com/en_IN/News/Galatta/Neethane_E20110913.jpg" class="img-responsive"/>
+            </div>
+            <div class="item">
+              <img src="http://static.wixstatic.com/media/2134a1_f7936f7899e64e68965a757484cc8256.jpg/v1/fill/w_300,h_300/2134a1_f7936f7899e64e68965a757484cc8256.jpg" class="img-responsive"/>
+            </div>
+          </div>
+        </div>
+         
+		</div>
+	</div>
+	
     <div class="col-sm-2 col-xs-4">
     	<div id="tile1" class="tile">
         
@@ -302,36 +330,19 @@ $( document ).ready(function() {
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-               <img src="http://handsontek.net/demoimages/tiles/twitter1.png" class="img-responsive"/>
+               <img src="http://tamil.way2movies.com/wp-content/uploads/2013/01/Mani-Ratnam.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-               <img src="http://handsontek.net/demoimages/tiles/twitter2.png" class="img-responsive"/>
+               <img src="https://images-na.ssl-images-amazon.com/images/I/51B3cjvY3uL._SY300_.jpg" class="img-responsive"/>
             </div>
           </div>
         </div>
          
     	</div>
 	</div>
-	<div class="col-sm-2 col-xs-4">
-		<div id="tile2" class="tile">
-    	 
-         <div class="carousel slide" data-ride="carousel">
-          <!-- Wrapper for slides -->
-          <div class="carousel-inner">
-            <div class="item active">
-              <img src="http://handsontek.net/demoimages/tiles/hot.png" class="img-responsive"/>
-            </div>
-            <div class="item">
-              <img src="http://handsontek.net/demoimages/tiles/hot2.png" class="img-responsive"/>
-            </div>
-            <div class="item">
-              <img src="http://handsontek.net/demoimages/tiles/hot3.png" class="img-responsive"/>
-            </div>
-          </div>
-        </div>
-         
-		</div>
-	</div>
+	
+	
+	
 	<div class="col-sm-2 col-xs-4">
 		<div id="tile3" class="tile">
     	 
@@ -339,15 +350,37 @@ $( document ).ready(function() {
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-               <img src="http://handsontek.net/demoimages/tiles/weather2.png" class="img-responsive"/>
+               <img src="http://m.behindwoods.com/tamil-movies-cinema-news-17/images/nivin-pauly-talks-about-the-jallikattu-protests-in-marina-photos-pictures-stills-2.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-               <img src="http://handsontek.net/demoimages/tiles/weather.png" class="img-responsive"/>
+               <img src="http://www.filmapia.com/sites/default/files/filmapia/pub/movie/posters/732_wallpaper.jpg" class="img-responsive"/>
             </div>
             </div>
          </div>
 		</div>
 	</div>
+	
+	<div class="col-sm-2 col-xs-4">
+		<div id="tile2" class="tile">
+    	 
+         <div class="carousel slide" data-ride="carousel">
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner">
+            <div class="item active">
+              <img src="http://m.behindwoods.com/tamil-movies-cinema-news-17/images/yami-gautam-keen-to-work-under-gautham-vasudev-menon-photos-pictures-stills-2.jpg" class="img-responsive"/>
+            </div>
+            <div class="item">
+              <img src="http://lqp-imgs.s3-ap-south-1.amazonaws.com/faceview/g7f/j7c/imgs/ct/1479956921243_1479956918608-lg300x300.jpg" class="img-responsive"/>
+            </div>
+            <div class="item">
+              <img src="http://3.bp.blogspot.com/_FylGS8_9K7U/SSWFyPC_8aI/AAAAAAAAKXg/Ni09_35W-vc/s400/vaaranam-aayiram-20-11-08.jpg" class="img-responsive"/>
+            </div>
+          </div>
+        </div>
+         
+		</div>
+	</div>
+	
 	<div class="col-sm-2 col-xs-4">
 		<div id="tile4" class="tile">
     	 
@@ -355,50 +388,20 @@ $( document ).ready(function() {
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item active">
-              <img src="http://handsontek.net/demoimages/tiles/facebook3.png" class="img-responsive"/>
+              <img src="http://is3.mzstatic.com/image/thumb/Music/00/0a/0d/mzi.grbbjgnr.jpg/300x300bb-55.jpg" class="img-responsive"/>
             </div>
             <div class="item">
-              <img src="http://handsontek.net/demoimages/tiles/facebook2.png" class="img-responsive"/>
+              <img src="http://www.cinecoffee.com/wp-content/uploads/2015/11/Maniratnam-300x300.jpg" class="img-responsive"/>
             </div>
           </div>
         </div>
          
 		</div>
 	</div>
-    <div class="col-sm-2 col-xs-4">
-		<div id="tile5" class="tile">
-    	 
-         <div class="carousel slide" data-ride="carousel">
-          <!-- Wrapper for slides -->
-          <div class="carousel-inner">
-            <div class="item active">
-              <img src="http://handsontek.net/demoimages/tiles/neews.png" class="img-responsive"/>
-            </div>
-            <div class="item">
-              <img src="http://handsontek.net/demoimages/tiles/neews2.png" class="img-responsive"/>
-            </div>
-          </div>
-        </div>
-         
-		</div>
-	</div>
-	<div class="col-sm-2 col-xs-4">
-		<div id="tile6" class="tile">
-    	 
-         <div class="carousel slide" data-ride="carousel">
-          <!-- Wrapper for slides -->
-          <div class="carousel-inner">
-            <div class="item active">
-              <img src="http://handsontek.net/demoimages/tiles/skype.png" class="img-responsive"/>
-            </div>
-            <div class="item">
-              <img src="http://handsontek.net/demoimages/tiles/skype2.png" class="img-responsive"/>
-            </div>
-          </div>
-        </div>
-         
-		</div>
-	</div>
+	
+	
+
+	
 </div>
 </body>
 </html>
